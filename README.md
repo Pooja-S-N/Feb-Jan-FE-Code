@@ -10,7 +10,7 @@ A heading about the Front End class
 💡 Output
 "I feel very easy and good"
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 - HTML5
 
 ## 📂 File
