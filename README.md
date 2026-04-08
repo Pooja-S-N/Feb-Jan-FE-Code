@@ -7,7 +7,7 @@ The webpage contains:
 A heading about the Front End class  
  A short paragraph sharing my experience  
 
-#💡 Output
+💡 Output
 "I feel very easy and good"
 
 ## 🛠️ Technologies Used
