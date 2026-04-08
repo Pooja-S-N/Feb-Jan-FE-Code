@@ -11,7 +11,7 @@ A heading about the Front End class
 "I feel very easy and good"
 
  🛠️ Technologies Used
-- HTML5
+ HTML5
 
 ## 📂 File
 - index.html
