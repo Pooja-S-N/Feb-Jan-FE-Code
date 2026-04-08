@@ -4,7 +4,7 @@ This project is a simple HTML webpage that describes my experience in the Front 
 
 📝 Description
 The webpage contains:
-- A heading about the Front End class  
+A heading about the Front End class  
 - A short paragraph sharing my experience  
 
 ## 💡 Output
